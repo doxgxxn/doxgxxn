@@ -1,7 +1,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doxgxxn&show_icons=true&theme=swift)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?style=for-the-badge&logo=github)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen?style=for-the-badge&logo=github)](https://github.com/doxgxxn)
 [![Python](https://img.shields.io/badge/Python-3.8-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-11-red?style=for-the-badge&logo=java)](https://www.oracle.com/java/)
 
